@@ -57,7 +57,7 @@ UndanganDigitalRianRini
         <div class="slide" style="background-image: url('[URL_BACKGROUND_SLIDE_1]');">
             <div class="text-center">
                 <h1 class="text-4xl md:text-6xl font-bold mb-4">The Wedding Of</h1>
-                <div id="coupleNames" class="text-4xl md:text-5xl font-bold mb-8">[Nama Pria] & [Nama Wanita]</div>
+                <div id="Rian & Rini" class="text-4xl md:text-5xl font-bold mb-8">[Rian Hardiansyah] & [Amalia septiarini]</div>
                 <div class="text-xl mb-12">Kepada Yth: <span id="guestName">Bapak/Ibu/Saudara/i</span></div>
                 <button onclick="scrollToNext()" class="bg-black text-white px-6 py-2 rounded-full animate-bounce mt-8">Buka Undangan</button>
             </div>
